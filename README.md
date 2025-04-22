@@ -13,3 +13,9 @@
       <li>pick webscrapping method</li>
       <li>known good address</li>
     </ul>
+<h1>MISC</h1>
+  <ul>
+    <li>make docs</li>
+    <li>pick name</li>
+    <li>norton?</li>
+  </ul>
